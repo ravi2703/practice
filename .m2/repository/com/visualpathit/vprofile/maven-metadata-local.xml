@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.visualpathit</groupId>
+  <artifactId>vprofile</artifactId>
+  <versioning>
+    <release>v1</release>
+    <versions>
+      <version>v1</version>
+    </versions>
+    <lastUpdated>20201222073550</lastUpdated>
+  </versioning>
+</metadata>
