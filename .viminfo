@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1616239519,,"wq!"
+|2,0,1616240310,,"wq!"
 :q!
 |2,0,1615960002,,"q!"
 
@@ -27,38 +27,54 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/shel.sh
-|4,48,1,0,1616239519,"~/shel.sh"
-'1  6  0  /etc/ansible/hosts
-|4,49,6,0,1615960870,"/etc/ansible/hosts"
-'2  5  33  /etc/ansible/hosts
-|4,50,5,33,1615960777,"/etc/ansible/hosts"
+'0  1  0  ~/DOCKER/Dockerfile
+|4,48,1,0,1616240310,"~/DOCKER/Dockerfile"
+'1  1  0  ~/shel.sh
+|4,49,1,0,1616239519,"~/shel.sh"
+'2  6  0  /etc/ansible/hosts
+|4,50,6,0,1615960870,"/etc/ansible/hosts"
 '3  5  33  /etc/ansible/hosts
 |4,51,5,33,1615960777,"/etc/ansible/hosts"
-'4  4  33  /etc/ansible/hosts
-|4,52,4,33,1615960686,"/etc/ansible/hosts"
+'4  5  33  /etc/ansible/hosts
+|4,52,5,33,1615960777,"/etc/ansible/hosts"
 '5  4  33  /etc/ansible/hosts
 |4,53,4,33,1615960686,"/etc/ansible/hosts"
 '6  4  33  /etc/ansible/hosts
 |4,54,4,33,1615960686,"/etc/ansible/hosts"
 '7  4  33  /etc/ansible/hosts
 |4,55,4,33,1615960686,"/etc/ansible/hosts"
-'8  1  14  /etc/ansible/hosts
-|4,56,1,14,1615960153,"/etc/ansible/hosts"
+'8  4  33  /etc/ansible/hosts
+|4,56,4,33,1615960686,"/etc/ansible/hosts"
 '9  1  14  /etc/ansible/hosts
 |4,57,1,14,1615960153,"/etc/ansible/hosts"
 
 # Jumplist (newest first):
+-'  1  0  ~/DOCKER/Dockerfile
+|4,39,1,0,1616240310,"~/DOCKER/Dockerfile"
+-'  1  0  ~/shel.sh
+|4,39,1,0,1616239519,"~/shel.sh"
 -'  1  0  ~/shel.sh
 |4,39,1,0,1616239519,"~/shel.sh"
 -'  6  0  /etc/ansible/hosts
 |4,39,6,0,1615960870,"/etc/ansible/hosts"
 -'  6  0  /etc/ansible/hosts
 |4,39,6,0,1615960870,"/etc/ansible/hosts"
+-'  6  0  /etc/ansible/hosts
+|4,39,6,0,1615960870,"/etc/ansible/hosts"
+-'  6  0  /etc/ansible/hosts
+|4,39,6,0,1615960870,"/etc/ansible/hosts"
 -'  5  33  /etc/ansible/hosts
 |4,39,5,33,1615960830,"/etc/ansible/hosts"
 -'  5  33  /etc/ansible/hosts
 |4,39,5,33,1615960830,"/etc/ansible/hosts"
+-'  5  33  /etc/ansible/hosts
+|4,39,5,33,1615960830,"/etc/ansible/hosts"
+-'  5  33  /etc/ansible/hosts
+|4,39,5,33,1615960830,"/etc/ansible/hosts"
+-'  5  33  /etc/ansible/hosts
+|4,39,5,33,1615960777,"/etc/ansible/hosts"
+-'  5  33  /etc/ansible/hosts
+|4,39,5,33,1615960777,"/etc/ansible/hosts"
 -'  5  33  /etc/ansible/hosts
 |4,39,5,33,1615960777,"/etc/ansible/hosts"
 -'  5  33  /etc/ansible/hosts
@@ -71,6 +87,18 @@
 |4,39,4,33,1615960739,"/etc/ansible/hosts"
 -'  4  33  /etc/ansible/hosts
 |4,39,4,33,1615960739,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960739,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960739,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960739,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960739,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960686,"/etc/ansible/hosts"
+-'  4  33  /etc/ansible/hosts
+|4,39,4,33,1615960686,"/etc/ansible/hosts"
 -'  4  33  /etc/ansible/hosts
 |4,39,4,33,1615960686,"/etc/ansible/hosts"
 -'  4  33  /etc/ansible/hosts
@@ -87,6 +115,22 @@
 |4,39,1,14,1615960661,"/etc/ansible/hosts"
 -'  1  14  /etc/ansible/hosts
 |4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960661,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960153,"/etc/ansible/hosts"
+-'  1  14  /etc/ansible/hosts
+|4,39,1,14,1615960153,"/etc/ansible/hosts"
 -'  1  14  /etc/ansible/hosts
 |4,39,1,14,1615960153,"/etc/ansible/hosts"
 -'  1  14  /etc/ansible/hosts
@@ -107,6 +151,22 @@
 |4,39,25,15,1615960056,"/etc/ansible/hosts"
 -'  25  15  /etc/ansible/hosts
 |4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
+-'  25  15  /etc/ansible/hosts
+|4,39,25,15,1615960056,"/etc/ansible/hosts"
 -'  43  25  /etc/ansible/hosts
 |4,39,43,25,1615960005,"/etc/ansible/hosts"
 -'  43  25  /etc/ansible/hosts
@@ -123,6 +183,26 @@
 |4,39,43,25,1615960005,"/etc/ansible/hosts"
 -'  43  25  /etc/ansible/hosts
 |4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960005,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960002,"/etc/ansible/hosts"
+-'  43  25  /etc/ansible/hosts
+|4,39,43,25,1615960002,"/etc/ansible/hosts"
 -'  43  25  /etc/ansible/hosts
 |4,39,43,25,1615960002,"/etc/ansible/hosts"
 -'  43  25  /etc/ansible/hosts
@@ -159,98 +239,22 @@
 |4,39,2,15,1615959964,"/etc/ansible/hosts"
 -'  44  15  /etc/ansible/hosts
 |4,39,44,15,1615959964,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  1  0  /etc/ansible/hosts
-|4,39,1,0,1615959903,"/etc/ansible/hosts"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
--'  5  8  ~/f1.txt
-|4,39,5,8,1615957442,"~/f1.txt"
+-'  2  15  /etc/ansible/hosts
+|4,39,2,15,1615959964,"/etc/ansible/hosts"
+-'  44  15  /etc/ansible/hosts
+|4,39,44,15,1615959964,"/etc/ansible/hosts"
+-'  2  15  /etc/ansible/hosts
+|4,39,2,15,1615959964,"/etc/ansible/hosts"
+-'  44  15  /etc/ansible/hosts
+|4,39,44,15,1615959964,"/etc/ansible/hosts"
+-'  2  15  /etc/ansible/hosts
+|4,39,2,15,1615959964,"/etc/ansible/hosts"
 
 # History of marks within files (newest to oldest):
+
+> ~/DOCKER/Dockerfile
+	*	1616240306	0
+	"	1	0
 
 > ~/shel.sh
 	*	1616239515	0

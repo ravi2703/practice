@@ -600,3 +600,34 @@ git push https://github.com/ravi2703/shelscript.git
 git push ravi@2703
 git push -u ravi@2703
 git push --set-upstream ravi@2703
+git clone https://github.com/ravi2703/DOCKER.git
+ls
+git log
+git config global ravi
+git config  ravi
+git config user.name ravi
+git config user.email harsharavi032@gmail.com
+ls
+git log
+git status
+git add .
+git commit -m "jj"
+git push
+git push ravi964
+git push --set-upstream ravi964 master
+git push --set-upstream ravi2703 master
+git push --set-upstream docker master
+git log
+git login
+git config
+ls
+cd docker 
+cd DOCKER
+ls
+vi Dockerfile
+git add ,
+git add .
+git commit -m "hh"
+git push 
+git push
+git log
