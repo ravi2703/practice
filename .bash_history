@@ -575,3 +575,28 @@ ls
 cd hosts
 cat hosts
 cd
+apt install git
+git --version
+hostname -i
+ifconfig
+netstat -nutlp 
+netstat -nutlp 980
+netstat -nutlp | grep 980
+netstat -nutlp | grep java
+git pull https://github.com/ravi2703/shelscript.git
+git init
+git pull https://github.com/ravi2703/shelscript.git
+ls
+vi shel.sh
+git add .
+git add -A
+git commit -m "first change" 
+ls
+git push -u origin master
+git push 
+git push https://github.com/ravi2703/shelscript.git
+git push --set-upstream https://github.com/ravi2703/shelscript.git
+git push https://github.com/ravi2703/shelscript.git
+git push ravi@2703
+git push -u ravi@2703
+git push --set-upstream ravi@2703
